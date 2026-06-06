@@ -1,3 +1,4 @@
+/*
 #include <stdio.h>
  
 // Função genérica para entrada de dados
@@ -23,3 +24,4 @@ int main() {
  
     return 0;
 }
+*/
