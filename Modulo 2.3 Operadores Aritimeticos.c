@@ -21,4 +21,9 @@
         printf("A multiplicação é: %d \n", multiplicacao);
         printf("A divisão é: %d \n", divisao);
 
+        
+
     }
+
+
+
