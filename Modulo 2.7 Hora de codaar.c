@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+        \\ Calculo para tirar média de notas
+
     int main() {
         int nota1, nota2;
         float nota3, nota4, nota5, nota6, nota7, nota8;
